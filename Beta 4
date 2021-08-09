@@ -1,0 +1,62 @@
+#EXTM3U
+#EXTINF:-1, Lucha Libre AAA
+https://stitcher.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=47ca7aaf-2e0a-e8c8-7383-hCCmFNuwkPRJ&deviceId=4M9c53OkgfBk&deviceVersion=75.0.3770.142&appVersion=2.7.3-f002a080d17a7061ac73ac2e68de5e8ca0660c96&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1, Azteca Uno https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
+#EXTINF:-1, Canal 5 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
+#EXTINF:-1, Canal 7 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
+#EXTINF:-1, Boomerang http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNDozNzoxNyBQTSZoYXNoX3ZhbHVlPUJhUnN2RE95UktNZXBhU1NCUWZhWWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Las Estrellas http://e10.telerium.uno:2052/free10/038/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjoxNDoxMiBQTSZoYXNoX3ZhbHVlPUJGalJ1K3B4RkdVMUJzYkhCdmlNV0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Unimas http://e10.telerium.uno:2052/free10/449/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjoxNTozNyBQTSZoYXNoX3ZhbHVlPXVsVkZsY1NZZUdFZ2UvaFBUWWtrQ0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Univisión http://e10.telerium.uno:2052/free10/062/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjoxNjoyOSBQTSZoYXNoX3ZhbHVlPUV4K2x1eTd2dkdaWmErZkRyTlk0V2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Univisión Telenovelas http://e10.telerium.uno:2052/free10/231/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjoxNzoyNiBQTSZoYXNoX3ZhbHVlPUNzdDVZTzd0QTNiTGdlYzhyV2I2eUE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Telenovelas http://e10.telerium.uno:2052/free10/060/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjoxOTowMCBQTSZoYXNoX3ZhbHVlPVdmNzVKUmNXSnVFdzFnOWhQSWVOSFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Star Action http://e10.telerium.uno:2052/free10/074/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjoyMToyMSBQTSZoYXNoX3ZhbHVlPWxCSUpoVVRZUUhoQ0F6VTEzeHRZbXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Star Cinema https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1729&format=HLSAD&f=.m3u8
+#EXTINF:-1, Star Hits http://e10.telerium.uno:2052/free10/079/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjoyMzo0OCBQTSZoYXNoX3ZhbHVlPTdLdHF2R1lVTkVsUU53eXRwSDNTVGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Telemundo Internacional http://e10.telerium.uno:2052/free10/050/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjo0MTo1OCBQTSZoYXNoX3ZhbHVlPStlRE92MHdrRjlzd2gxYk84RnBrTWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1,Tiin http://e10.telerium.uno:2052/free10/063/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjo0MzowOCBQTSZoYXNoX3ZhbHVlPXdkNkE3N0dkQ3k3d0Nxb2xqZEIzb1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Multimedios http://e10.telerium.uno:2052/free10/465/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjo0NDoyMCBQTSZoYXNoX3ZhbHVlPXVGRGFpM1lIZE52dkVrVTdYUENOYVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Distrito Comedia http://e10.telerium.uno:2052/free10/073/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjo0NTozOSBQTSZoYXNoX3ZhbHVlPTQzM1N1UEdSMEtPMFBJOWhqQWZLWlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Comedy Central http://e10.telerium.uno:2052/free10/071/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjo0NjozNCBQTSZoYXNoX3ZhbHVlPWtUeXR2cWQzRE9iL2hqb0d3OTNLSnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, History http://e10.telerium.uno:2052/free10/031/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjo0NzozMiBQTSZoYXNoX3ZhbHVlPWpEaXJzcmxWNE5PZ1BJd3A0OTFNbVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, De pelicula http://e10.telerium.uno:2052/free10/072/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjo0ODo1MyBQTSZoYXNoX3ZhbHVlPWEvYjRSSmRGQWdHaDc3S1ppZHJpQVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Univision http://e10.telerium.uno:2052/free10/062/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjo1MTo1NCBQTSZoYXNoX3ZhbHVlPVZ6UXAxUnFRQ0VmYWRiMkhkYkM1akE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Cinemax http://e10.telerium.uno:2052/free10/070/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjo1MzowMiBQTSZoYXNoX3ZhbHVlPTloNmZJVmR0dmZ6SUJTK3N5ZGhzT3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Cine Canal http://e10.telerium.uno:2052/free10/069/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjo1Mzo1NCBQTSZoYXNoX3ZhbHVlPVZjUmpkaitwMHJVbzUvVDlrbjBGRmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Sony http://e10.telerium.uno:2052/free10/094/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjo1NDo1OCBQTSZoYXNoX3ZhbHVlPXNMOXNnb2lhUHJmR0NoREhucTg1cVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Golden http://e10.telerium.uno:2052/free10/085/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjo1NTo0OSBQTSZoYXNoX3ZhbHVlPS83ZWZjYmFPUmlkbmpEUHRxU1d4ekE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Golden Edge http://e10.telerium.uno:2052/free10/086/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjo1NjozMiBQTSZoYXNoX3ZhbHVlPStHRnNyZ1IrbTVoOXRvb0NtdEVVd0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Golden Premier http://e10.telerium.uno:2052/free10/242/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjo1NzozMSBQTSZoYXNoX3ZhbHVlPTdnNi9LM0UrVXRSdTF4QVh4SDRLb1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Space http://e10.telerium.uno:2052/free10/095/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNjo1OToxMCBQTSZoYXNoX3ZhbHVlPTdLYURGN2Y1YitjY3lMNXpyMnlaWFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Studio http://e10.telerium.uno:2052/free10/096/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzowMDoxNyBQTSZoYXNoX3ZhbHVlPWQzY3ppUDYrcEVLTlhHTEtvUzN0SFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, TNT http://e10.telerium.uno:2052/free10/098/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzowMToxMiBQTSZoYXNoX3ZhbHVlPS9vNW14bVYySWQ0YTUyQ1FwbW5uWXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, TNT Series http://e10.telerium.uno:2052/free10/099/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzowMjoyMiBQTSZoYXNoX3ZhbHVlPXFtaThDQWVzYkc1NFFqMmdMODI2S1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Paramount http://e10.telerium.uno:2052/free10/093/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzowNDowMiBQTSZoYXNoX3ZhbHVlPXgxTkZtS3ArNXltUUl0eWJvL3EzSGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, HBO http://e10.telerium.uno:2052/free10/243/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzowNToyNiBQTSZoYXNoX3ZhbHVlPUtkcVlQVjhGbFVtQmtsNjNBWmhxRlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1,HBO Family http://e10.telerium.uno:2052/free10/088/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzowNjoxNyBQTSZoYXNoX3ZhbHVlPUU1WG5FUUNGK1VkOXpCVmhESGRxenc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, FX http://e10.telerium.uno:2052/free10/083/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzowNzoxNiBQTSZoYXNoX3ZhbHVlPXg2aGdwSWNaUXF2SDM2aldsMGFIcXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, VH1 http://e10.telerium.uno:2052/free10/110/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzowODozMSBQTSZoYXNoX3ZhbHVlPVRtUEVPUUhvbU1nWHJhR0habjRyQ3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, VH1 Classics http://e10.telerium.uno:2052/free10/109/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzowOToyOCBQTSZoYXNoX3ZhbHVlPVZhZFBRVWhnQ2FQNmVBUERJK2RQTHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, MTV http://e10.telerium.uno:2052/free10/105/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzoxMDo0MyBQTSZoYXNoX3ZhbHVlPW9jeFBTbW54U0hBQ0FxQlNIOHBtUHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, MTV Hits http://e10.telerium.uno:2052/free10/104/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzoxMTozMSBQTSZoYXNoX3ZhbHVlPXVTUXduMTlpUHRuajF6NG9WaFU1c3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Bandamax http://e10.telerium.uno:2052/free10/103/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzoxMjo1MCBQTSZoYXNoX3ZhbHVlPU4rbHhMazhhZGZRNTdyelhTTnpYT2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Telehit http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/760dae6141fe9714b3ea3bc2a542f81287836052/e4f71a3ecccd3f0241fb37aba4c21053cc807725/100214_9.m3u8
+#EXTINF:-1, Cartoon Network http://e10.telerium.uno:2052/free10/137/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzoxNTo1MiBQTSZoYXNoX3ZhbHVlPXNaakVLVmNIaXcxUTl5R1R3TTFyU0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Nick http://e10.telerium.uno:2052/free10/142/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzoxODowMSBQTSZoYXNoX3ZhbHVlPWtoOVptcW14WWlacHRjeUtJaEhDN2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Tooncast http://e10.telerium.uno:2052/free10/146/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzoxOToyNSBQTSZoYXNoX3ZhbHVlPTMxbTNzbGdZbTRJUmpIajZCeERuZUE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Discovery Kids http://e10.telerium.uno:2052/free10/148/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzoyMDozOSBQTSZoYXNoX3ZhbHVlPWtPbzkyRFJ2YmZRZ1o5S2ZKMXE5bGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Disney XD http://e10.telerium.uno:2052/free10/140/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzoyMjowOCBQTSZoYXNoX3ZhbHVlPWczQ0M4Wjc2UUp2bFNObXY1R2JKWEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Disney Jr http://e10.telerium.uno:2052/free10/139/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzoyMzowNyBQTSZoYXNoX3ZhbHVlPXEyZGVjdkRCRkE3M0tBK09JKzFhdGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Disney Chanel http://e10.telerium.uno:2052/free10/138/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzoyNDowOSBQTSZoYXNoX3ZhbHVlPWtseXNEQ0tXWk5tZzBrNU43S0xKMFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Animal Planet http://e10.telerium.uno:2052/free10/001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzoyNToxNCBQTSZoYXNoX3ZhbHVlPVZGTUs5Lys2Z3ZMaW5GSVB5c0ZHanc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Discovery Chanel http://e10.telerium.uno:2052/free10/158/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzoyNjoxMyBQTSZoYXNoX3ZhbHVlPVBvbWZRM3JIUmJ3OUdHQmZ3K1RZT0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Nat Geo http://e10.telerium.uno:2052/free10/057/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzoyNzowOSBQTSZoYXNoX3ZhbHVlPXRETWpHcHR6R0Z0SDd5dzlRM0Z3V2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Imagen TV http://e10.telerium.uno:2052/free10/035/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzoyODowMiBQTSZoYXNoX3ZhbHVlPW42SlFnbUNscEo1STBrN2dBSkRYN0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Universal Chanel http://e10.telerium.uno:2052/free10/100/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNzoyOTo0NCBQTSZoYXNoX3ZhbHVlPXIrbTNEODVPcW9QUDcxZ3h3dGlHMEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1, Bob Esponja http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/760dae6141fe9714b3ea3bc2a542f81287836052/9605e9977f7c74668b80f1fe546ffea06a317154/100366_12.m3u8
+#EXTINF:-1, Cantinflas http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/760dae6141fe9714b3ea3bc2a542f81287836052/39f929a248ece96a5c37f210b87869aee9bac86f/100233_12.m3u8
+#EXTINF:-1, El Chavo del 8 http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/760dae6141fe9714b3ea3bc2a542f81287836052/6f5f02949fb9aed4180b4623e777e65e8c8b47f1/100187_9.m3u8
+#EXTINF:-1, Espn Arg http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/760dae6141fe9714b3ea3bc2a542f81287836052/4a91d7de9be75351d61fb56b737b4b5bf4253f1a/1004_19.m3u8
+#EXTINF:-1, TUDN USA http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/760dae6141fe9714b3ea3bc2a542f81287836052/23584d2865ffaffc211a25351f03d98b209ef9d4/10069_19.m3u8
+#EXTINF:-1, Barça TV http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/760dae6141fe9714b3ea3bc2a542f81287836052/f5dc4ac0aa3196d672bf83d861ab1951be674e14/10099_19.m3u8
+#EXTINF:-1, Fox Sports Premium http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/760dae6141fe9714b3ea3bc2a542f81287836052/a7c96dbdfe774c235c5bd76fbf2121d666093e4f/100376_19.m3u8
